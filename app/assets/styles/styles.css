@@ -13,6 +13,7 @@ $mainBlue: #2f5572;
 @import 'normalize.css';
 @import 'base/_global';
 @import 'base/_variables';
+@import 'base/_mixins';
 @import 'modules/_large-hero';
 @import 'modules/_btn';
 
