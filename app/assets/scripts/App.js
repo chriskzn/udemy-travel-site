@@ -1,7 +1,10 @@
 import '../styles/styles.css'
 import MobileMenu from './modules/MobileMenu'
+import RevealOnScroll from './modules/RevealOnScroll';
 //import Person from './modules/Person'
 //alert("Hello, this is just a test")
+
+let revealOnScroll = new RevealOnScroll();
 
 let mobileMenu = new MobileMenu();
 
